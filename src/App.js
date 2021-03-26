@@ -1,12 +1,12 @@
 import React from 'react'
-// import Setup from './tutorial/1-useState/setup/5-useState-counter'
-import Final from './tutorial/1-useState/final/3-useState-array'
+import Setup from './tutorial/2-useEffect/setup/2-useEffect-cleanup'
+// import Final from './tutorial/1-useEffect/final/3-useState-array'
 
 function App() {
   return (
     <div className='container'>
-      {/* <Setup /> */}
-      <Final />
+      <Setup />
+      {/* <Final /> */}
     </div>
   )
 }
