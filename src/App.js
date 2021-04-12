@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from './tutorial/4-forms/setup/2-multiple-inputs'
+import Setup from './tutorial/6-useReducer/setup'
 // import Final from './tutorial/1-useEffect/final/3-useState-array'
 
 function App() {
